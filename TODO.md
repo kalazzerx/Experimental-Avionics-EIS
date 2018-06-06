@@ -6,6 +6,7 @@
 - [ ] Remove R3 and R4
 - [ ] Remove tach input voltage divider and replace with series 1k
 - [ ] Change Vref on EGT sensor
+- [ ] Redesign tach circuit with [LM1815](http://www.ti.com/product/LM1815)
 
 
 #### List of tasks that would be nice but not necessary
